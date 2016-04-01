@@ -1,0 +1,5 @@
+= Deneme Yazı
+=================
+Yazar Adı <bulutkaya67@gmail.com>
+
+Yazı içeriği, Merhaba Dünya!
